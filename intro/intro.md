@@ -24,5 +24,9 @@ Lambada (the tool) was built on your experience writing beanstalker, as well as 
   * Cognito over AWS API Gateway for Serverless Apps
   * TypeScript over JavaScript (when needed)
 
+## Getting in Touch
+
+Feel free to make any comments on [gitter](https://gitter.im/ingenieux/lambada/) or if you're shy, [just e-mail me](mailto:aldrin@leal.eng.br)
+
 I believe its enough. Lets iterate from here. :)
 
