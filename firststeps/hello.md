@@ -11,7 +11,18 @@ $ git clone https://git@github.com/ingenieux/lambada-skeleton.git
 $ cd lambada-skeleton
 ```
 
-Import lambada-skeleton into your IDE.
+Import lambada-skeleton into your IDE. The project is broken as such:
+
+  * First, the common and repeatable definitions are under ```parent/pom.xml```. Thus, whenever a new version arises, you might simply compare with the one in the repository.
+  * The main ```pom.xml``` inherits from parent/pom. In particular, the ```<dependencies/>``` section and any eventual properties you might need.
+  * The ```HelloLambda.java``` is where the main code for this Lambda Function is Written. Of particular case, notice the ```sayHello``` method:
+
+```java
+    @LambadaFunction(name="hello_sayHelloToLambda",
+            description="Says Hello to Lambda",
+            timeout=5)
+    public void sayHelloToLambda(InputStream is, OutputStream os, Context context) throws Exception {
+```
 
 Then, deploy:
 
