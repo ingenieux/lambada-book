@@ -12,6 +12,7 @@
   * AWS Events: SNS Example
   * Cognito Recipes
   * API Gateway
+  * CloudFormation
 * Building a Telegram Bot with Lambada 
 * Using with TypeScript
 * Conclusion
