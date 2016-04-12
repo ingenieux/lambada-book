@@ -1,4 +1,4 @@
-# Introduction
+# Preface
 
 In this book, we'll show you recipes to build Java Functions for [AWS Lambda](https://aws.amazon.com/lambda/) with [Lambada](https://github.com/ingenieux/lambada/) using our platform, [Lambada](https://github.com/ingenieux/lambada/).
 
