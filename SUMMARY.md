@@ -6,6 +6,7 @@
   * ["Hello World", AWS Lambda Style](firststeps/hello.md)
   * ["Hello World", a bit harder](firststeps/hello-world-longer.md)
   * [The AWS Lambda for Java 8 Runtime Model](firststeps/runtime-model.md)
+  * [Under the hood](firststeps/under-the-hood.md)
   * [Versioning](firststeps/versioning.md)
   * [Logging](firststeps/logging.md)
   * [The Context Object](firststeps/context.md)
