@@ -2,7 +2,9 @@
 
 Although AWS doesn't make its details public, there's nothing wrong about reversing whats available to us. In fact, some already did it before.
 
-In this example, we'll work on Lambda Shell, a tool to grab parts of the AWS Java Runtime for Lambda, and make a few investigations of our own.
+In this example, we'll work on Lambda Shell, a tool to grab parts of the AWS Java Runtime for Lambda, and make a few investigations of our own.[^1]
+
+[^1]: Credit goes to Eric Hammond of Alestic for doing [this first](https://alestic.com/2014/11/aws-lambda-environment/) 
 
 ### Downloading the Examples
 
