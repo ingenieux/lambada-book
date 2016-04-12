@@ -52,3 +52,16 @@ $ for i in beanstalker lambada ; do \
     (cd $i ; mvn install -DskipTests) ; \
   done
 ```
+
+## Getting Help
+
+Here are some tips when it comes to troubleshooting:
+
+1. Run mvn -X in order to track the whole flow, including variables and parameters. But be wary that the AWS Calls will take a lot of logging output
+2. Always look at the Javadocs. Specially:
+  * beanstalk-maven-plugin: http://beanstalker.ingenieux.com.br/beanstalk-maven-plugin/plugin-info.html
+  * lambda-maven-plugin: http://beanstalker.ingenieux.com.br/lambda-maven-plugin/plugin-info.html
+  * apigateway-maven-plugin: http://beanstalker.ingenieux.com.br/apigateway-maven-plugin/plugin-info.html
+  * lambada-maven-plugin: http://lambada.ingenieux.com.br/lambada-maven-plugin/plugin-info.html
+
+When in doubt, read the source code, and use the gitter rooms for [lambada](https://gitter.im/ingenieux/lambada/) and [beanstalker](https://gitter.im/ingenieux/beanstalker/), as well as the [beanstalker-users mailing list](https://groups.google.com/group/beanstalker-users/).
