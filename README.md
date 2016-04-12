@@ -51,3 +51,19 @@ Remeber we said genius yet obvious? So obvious others had the same idea.
 So Yes, there's [lambadaframework/lambadaframework](https://github.com/lambadaframework/lambadaframework/) from [Çağatay Gürtürk](https://twitter.com/cagataygurturk) on github. We tried to discuss a consensus, but: idiosyncrasies.
 
 But in the end, names are just that: names. In case of confusion, we recommend calling "Lambada by ingenieux" and "Lambada from Çağatay"
+
+## The Vision
+
+Lambada (the tool) was built on your experience writing [beanstalker](https://beanstalker.ingenieux.com.br/beanstalk-maven-plugin/), as well as the [AWS SDK for TypeScript](https://github.com/ingenieux/aws-sdk-typescript/). Its philosophy can summed as:
+
+  * Allow as much flexibility as possible first, and later composing functionality
+  * Properties over XML Files
+  * Defaults where possible, or move it into a parent pom file.
+  * Cognito over AWS API Gateway for Serverless Apps
+  * TypeScript over JavaScript (when needed)
+
+## Getting in Touch
+
+Feel free to make any comments on [gitter](https://gitter.im/ingenieux/lambada/) or if you're shy, [just e-mail me](mailto:aldrin@leal.eng.br)
+
+I believe its enough. Lets iterate from here. :)
