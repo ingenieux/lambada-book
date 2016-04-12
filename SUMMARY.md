@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](intro/intro.md)
+* First Steps
+  * ["Hello World", AWS Lambda Style](firststeps/hello.md)
