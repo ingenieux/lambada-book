@@ -12,3 +12,5 @@
 * Amazon Cognito Recipes
 * API Gateway Basics with Lambada
 * Using with TypeScript
+* Conclusion
+
