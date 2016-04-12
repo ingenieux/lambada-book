@@ -13,6 +13,11 @@
   * Cognito Recipes
   * API Gateway
   * CloudFormation
-* Building a Telegram Bot with Lambada 
-* Using with TypeScript
+* Sample Cases:
+  * Landing Page Project
+    * Event Collector
+    * Form Collecting
+  * Building Telegram Bots
+  * Usage with Zapier
+* TypeScript
 * Conclusion
