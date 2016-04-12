@@ -7,10 +7,10 @@
   * [The AWS Lambda for Java 8 Runtime Model](firststeps/runtime-model.md)
   * Logging under AWS Lambda
   * The Context Object
-* AWS Events:
-  * Lambada with SNS
-* Amazon Cognito Recipes
-* API Gateway Basics with Lambada
+* Recipes:
+  * AWS Events: SNS Example
+  * Cognito Recipes
+  * API Gateway
+* Building a Telegram Bot with Lambada 
 * Using with TypeScript
 * Conclusion
-
