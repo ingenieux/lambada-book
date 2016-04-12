@@ -22,11 +22,15 @@ There's also a aptly-named framework for Node JS. Lambada was also inspired on [
 
 ## Why this book?
 
-Java tends to be the slowest and less used, yet it is as powerful as Node and Python. In this book, we want to document how to use Lambada, in order to build innovative solutions.
+Java tends to be the slowest and less used, yet it is as powerful as Node and Python. 
+
+In particular, Java excels at Typing, JVM-based Languages (like Scala), as well as a large library of pure replacements instead of native binaries. In particular, we noticed that Java allows one have fewer errors in production.
+
+In this book, we want to document how to use Lambada, in order to build innovative solutions.
 
 It is also made as a Cookbook, in order to help you quickly identify your case and build from our recipes.
 
-## Why Lambada?
+## Why you named it Lambada?
 
 It's the genius yet obvious pun on Lambda. As [wikipedia says](https://en.wikipedia.org/wiki/Lambada):
 
