@@ -1,5 +1,6 @@
 # Summary
 
+* [Preface](README.md)
 * [Introduction](intro/intro.md)
 * [First Steps](firststeps/README.md)
   * ["Hello World", AWS Lambda Style](firststeps/hello.md)
