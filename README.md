@@ -1,3 +1,3 @@
-# My Awesome Book
+# The Book of Lambada
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+A Gentle introduction of [AWS Lambda](https://aws.amazon.com/lambda/) using Java and [Lambada](https://github.com/ingenieux/lambada/).
