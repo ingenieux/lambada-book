@@ -132,5 +132,3 @@ You can do it from the AWS Console.
 
 When done, look under the CloudWatch Logs and see its output.
 
-### About AWS Lambda Signatures
-
