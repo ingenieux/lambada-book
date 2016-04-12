@@ -5,7 +5,9 @@ Under the Java Model ([fully described here](http://docs.aws.amazon.com/lambda/l
 
 When defining those functions, you need to refer to the ```package+classname+method```, as such:
 
-```my.package.name.Class::handlerName```
+```
+my.package.name.Class::handlerName
+```
 
 There, ```handlerName``` is a method defined into the class. This method could be either ```static``` or not. If not static, ensure the class comes with a Public, No Argument Constructor.
 
