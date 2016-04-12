@@ -7,4 +7,8 @@
   * [The AWS Lambda for Java 8 Runtime Model](firststeps/runtime-model.md)
   * Logging under AWS Lambda
   * The Context Object
-* Using Lambda with AWS Events
+* AWS Events:
+  * Lambada with SNS
+* Amazon Cognito Recipes
+* API Gateway Basics with Lambada
+* Using with TypeScript
