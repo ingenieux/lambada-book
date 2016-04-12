@@ -8,12 +8,14 @@
   * [Versioning](firststeps/versioning.md)
   * [Logging](firststeps/logging.md)
   * [The Context Object](firststeps/context.md)
-* Hard Things
-  * Configuration
-  * Dependency Injection Frameworks
-  * Performance
-  * Testing
-* [Recipes](recipes/README.md):
+* [Hard Things](hardthings/README.md)
+  * [Configuration](hardthings/configuration.md)
+  * [Dependency Injection Frameworks](hardthings/di.md)
+  * [Performance](hardthings/performance.md)
+  * [Testing](hardthings/testing.md)
+  * [Monitoring](hardthings/monitoring.md)
+* [Recipes](recipes/README.md)
+* [Samples](samples/README.md)
   * [AWS Events: SNS Example](recipes/events.md)
   * [API Gateway](recipes/api-gateway.md)
   * [Cognito](recipes/cognito.md)
