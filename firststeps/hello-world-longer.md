@@ -81,6 +81,3 @@ Lambada + beanstalker automates this process by:
 ### Understanding the Maven Plugins
 
 From now on, we'll refer the Maven Plugins to their real name: Mojos.
-
-### About Type Signatures
-
