@@ -17,7 +17,7 @@
 }
 ```
 
-(Note this is also the prebuild ```Administrator Access``` policy on the IAM Console)
+(Note this is also the prebuilt ```Administrator Access``` policy on the IAM Console)
 
 Once you've got this set of credentials, install [awscli](https://aws.amazon.com/cli/) and run ```awscli configure```
 
