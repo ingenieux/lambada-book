@@ -42,3 +42,13 @@ Once you've got this set of credentials, install [awscli](https://aws.amazon.com
 
   * Also, it needs a trust relationship to ```lambda.amazonaws.com```
 
+## Prerelease versions of this guide
+
+This is important: Currently, prior to running this examples, you need to install the non-released versions of both beanstalker and lambada. To do this, clone and mvn install both:
+
+```shell
+$ for i in beanstalker lambada ; do \
+    git clone https://github.com/ingenieux/$i.git ; \
+    (cd $i ; mvn install -DskipTests) ; \
+  done
+```
