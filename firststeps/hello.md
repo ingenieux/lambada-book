@@ -1,30 +1,8 @@
+## "Hello World"
 
 Lets start with a simple Lambda Function written with Lambada.
 
-## Before you Start
-
-  * This example requires you to declare an IAM Role named ```lambda_basic_execution``` with the following policy added:
-
-```json
-{
-    "Version": "2012-10-17",
-    "Statement": [
-        {
-            "Effect": "Allow",
-            "Action": [
-                "logs:CreateLogGroup",
-                "logs:CreateLogStream",
-                "logs:PutLogEvents"
-            ],
-            "Resource": "arn:aws:logs:*:*:*"
-        }
-    ]
-}
-```
-
-  * Also, it needs a trust relationship to ```lambda.amazonaws.com```
-
-## Starting it up
+### Starting it up
 
 Start by cloning ingenieux/lambada-skeleton from github:
 
@@ -123,7 +101,7 @@ aldrin@aldrin-X555LD lambada-skeleton $
 
 At this point, your function was created and successfully deployed.
 
-## What Happened?
+### What Happened?
 
 Building an AWS Lambda Function in Java requires several steps, involving:
 
@@ -135,7 +113,7 @@ Building an AWS Lambda Function in Java requires several steps, involving:
 
 As you see, there are lots of small, integrated process. In order to make it easy we wrap into a build profile use it to augment the original build definitions.
 
-## Invoking your function
+### Invoking your function
 
 You can do it from the AWS Console. 
 
@@ -143,5 +121,5 @@ You can do it from the AWS Console.
 
 When done, look under the CloudWatch Logs and see its output.
 
-## About AWS Lambda Signatures
+### About AWS Lambda Signatures
 
